@@ -33,7 +33,7 @@ our @EXPORT = qw(
 
 );
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 # Set up an array in the package namespace to hold names of objects we 
 # will allow an instance of SOAP::Lite::InstanceExporter to access
